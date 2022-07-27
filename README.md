@@ -3,7 +3,7 @@
 Test
 
 <iframe 
-src="https://www.twitch.tv/fire_kitchen" 
+src="XXXX"
 frameborder="0" 
 allowfullscreen="true" 
 scrolling="no" 
